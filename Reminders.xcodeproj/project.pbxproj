@@ -18,6 +18,8 @@
 		7D08EDC425BCCCB300804EB8 /* TaskStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D08EDC325BCCCB300804EB8 /* TaskStore.swift */; };
 		7DA39EEA25BE3332005884B0 /* TaskCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DA39EE925BE3332005884B0 /* TaskCell.swift */; };
 		7DA39EEB25BE3332005884B0 /* TaskCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DA39EE925BE3332005884B0 /* TaskCell.swift */; };
+		7DA39EF125BE3A48005884B0 /* AddTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DA39EF025BE3A48005884B0 /* AddTask.swift */; };
+		7DA39EF225BE3A48005884B0 /* AddTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DA39EF025BE3A48005884B0 /* AddTask.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +35,7 @@
 		7D08EDBF25BCCC5000804EB8 /* TaskPrioirity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskPrioirity.swift; sourceTree = "<group>"; };
 		7D08EDC325BCCCB300804EB8 /* TaskStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskStore.swift; sourceTree = "<group>"; };
 		7DA39EE925BE3332005884B0 /* TaskCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskCell.swift; sourceTree = "<group>"; };
+		7DA39EF025BE3A48005884B0 /* AddTask.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTask.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,7 @@
 			children = (
 				7D08ED9525BCCA0A00804EB8 /* ContentView.swift */,
 				7DA39EE925BE3332005884B0 /* TaskCell.swift */,
+				7DA39EF025BE3A48005884B0 /* AddTask.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -221,6 +225,7 @@
 				7D08EDA925BCCA0D00804EB8 /* ContentView.swift in Sources */,
 				7D08EDBA25BCCB9600804EB8 /* Task.swift in Sources */,
 				7DA39EEA25BE3332005884B0 /* TaskCell.swift in Sources */,
+				7DA39EF125BE3A48005884B0 /* AddTask.swift in Sources */,
 				7D08EDA725BCCA0D00804EB8 /* RemindersApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -229,6 +234,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7DA39EF225BE3A48005884B0 /* AddTask.swift in Sources */,
 				7D08EDAA25BCCA0D00804EB8 /* ContentView.swift in Sources */,
 				7DA39EEB25BE3332005884B0 /* TaskCell.swift in Sources */,
 				7D08EDA825BCCA0D00804EB8 /* RemindersApp.swift in Sources */,
